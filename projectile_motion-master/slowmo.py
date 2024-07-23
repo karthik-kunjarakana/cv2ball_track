@@ -1,5 +1,5 @@
+#Converts the input video to slow motioned output
 import cv2
-
 class VideoSlowMoConverter:
     def __init__(self, input_video_path, output_video_path, slow_factor=2):
         self.input_video_path = input_video_path
