@@ -1,4 +1,4 @@
-#Ball Tracking using OpenCV
+# Ball Tracking using OpenCV
 ```
 # Object Tracking with OpenCV
 
@@ -108,4 +108,5 @@ pip install opencv-python numpy
 ## Acknowledgments
 
 Special thanks to the OpenCV community for their extensive documentation and examples.
+```
 ```
