@@ -109,5 +109,3 @@ pip install opencv-python numpy
 
 Special thanks to the OpenCV community for their extensive documentation and examples.
 ```
-
-Feel free to modify the README.md file to better suit your project's specifics and any additional information you would like to include.
