@@ -1,4 +1,4 @@
-# Ball Tracking using OpenCV
+#Ball Tracking using OpenCV
 ```
 # Object Tracking with OpenCV
 
